@@ -2,7 +2,7 @@
 
 ## Single-file components - Calendar App
 
-* Simple State Management (no Vuex - just to see how things work without it)
+* Simple State Management (no Vuex - just to see how things work without it, using a store)
 
 1. Ensure you have `npm` installed.
 
